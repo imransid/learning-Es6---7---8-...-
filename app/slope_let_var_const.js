@@ -52,8 +52,24 @@
 /* Array Decoration */
 
 
-let list = ["Python", "Es6", "React", "vuejs"];
+// let list = ["Python", "Es6", "React", "vuejs"];
 
-let[imran, ...opu] = list;
+// let[imran, ...opu] = list;
 
-console.log(imran, opu);
+// console.log(imran, opu);
+
+
+/* Destructuring Assignment - Objects */
+
+let  Gandalf = {magic : true, power: 9, Sword_Skills: false};
+
+let {magic, power, Sword_Skills} = Gandalf; //it's important never forget it's work Gandalf.magic
+
+console.log("Have Gandalf Magic Power : " + magic + "\nThe Power Range : " + power +"\nHave A Sword Skills : " + Sword_Skills);
+
+console.log('\n');
+
+let Thorin_II_Oakenshield = {magic : false, power: 10, Sword_Skills: true};
+({magic, power, Sword_Skills} = Thorin_II_Oakenshield); 
+
+console.log("Have Thorin II Oakenshield Magic Power : " + magic + "\nThe Power Range : " + power +"\nHave A Sword Skills : " + Sword_Skills);
