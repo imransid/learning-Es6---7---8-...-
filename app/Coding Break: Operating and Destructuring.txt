@@ -1,0 +1,29 @@
+Coding Break: Operating and Destructuring
+
+We made it to the end of this section, and now we can take a short break (remember these are optional)!
+
+Let’s take a moment to review the important material we just learned.
+
+    The es6 spread operator spreads the contents of an array or object into multiple variables. Its syntax uses three periods, just like so: …
+
+    Destructuring Assignment  in es6 allows us to extract data from arrays or objects into separate, distinct variables.
+
+    Array Destructuring Assignment assigns multiple variables from an array. For instance, let [a, b] = c, where values ‘a’ and ‘b’ assign in order to the respective elements in ‘c’.
+
+    Object Destructuring Assignment assigns multiple variables form an object. For instance, let { a, b } = c, where values ‘a’ and ‘b’ assign to the ‘a’ and ‘b’ properties in ‘c’.
+
+Overall, the spread and operator and destructuring assignment will significantly reduce the length of your JavaScript code. Sometimes, using the spread operators and destructuring assignment techniques really feels like coding magic!
+
+What do you call a professional that fixes engines?
+
+A machine operator.
+
+How about someone who fixes telephones?
+
+A telephone operator, of course.
+
+How about someone who fixes butter and jam?
+
+Why, that’s a …spread operator.
+
+:)
