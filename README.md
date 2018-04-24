@@ -2,8 +2,8 @@
 <!-- Black Wolf Rise Again -->
 
 
-Now Arrow Function :) 
-
+-> Arrow Function :) 
+Now map :) 
 
 
 				:::::::::::
