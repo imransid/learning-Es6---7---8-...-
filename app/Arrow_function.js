@@ -73,3 +73,35 @@ const scale = (multiple) => {
 };
 
 console.log(scale(multiple));
+
+
+
+
+
+
+/* New Helper filter method */
+
+
+// let isPassing = (grade) => {
+// 	return grade >= 70;
+// };
+
+
+// let scrores = [10, 30, 55, 70, 80, 90, 90.5];
+
+
+// let passing = scrores.filter(isPassing);
+
+// console.log("The result upper then 70 data are : " + passing);
+
+
+
+// we can write it more easy way = 
+
+
+let scrores = [10, 30, 55, 70, 80, 90, 90.5];
+
+
+let passing = scrores.filter(ele => ele >= 70);
+
+console.log("The result upper then 70 data are : " + passing);

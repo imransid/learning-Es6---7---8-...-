@@ -3,7 +3,10 @@
 
 
 -> Arrow Function :) 
-Now map :) 
+
+->map :)
+
+->Now filter :) 
 
 
 				:::::::::::
