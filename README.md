@@ -6,7 +6,13 @@
 
 ->map :)
 
-->Now filter :) 
+->filter :)
+
+->Modules :) 
+
+->Presenting oop IN ES6  :) 
+
+
 
 
 				:::::::::::
