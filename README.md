@@ -10,7 +10,9 @@
 
 ->Modules :) 
 
-->Presenting oop IN ES6  :) 
+->Presenting oop :)
+
+-> inheritence & Method overloading IN ES6  :) 
 
 
 
